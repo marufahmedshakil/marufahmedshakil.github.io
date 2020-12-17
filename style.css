@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://i.ibb.co/THjgs69/20201206-215523.jpg") no-repeat center;
+    background: url("https://i.ibb.co/whKLnHn/20201217-182155.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -178,18 +178,18 @@ section .title::after{
 }
 .home .home-content .text-1{
     font-size: 27px;
-    color : red ;
+    
 }
 .home .home-content .text-2{
     font-size: 75px;
     font-weight: 600;
     margin-left: -3px;
-    color : red ;
+    
 }
 .home .home-content .text-3{
     font-size: 40px;
     margin: 5px 0;
-    color : red ;
+   
 }
 .home .home-content .text-3 span{
     color: crimson;
