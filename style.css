@@ -378,15 +378,15 @@ section .title::after{
 
 
 .skills-content .right .html::before{
-    width: 60%;
+    width: 70%;
 }
 .skills-content .right .css::before{
+    width: 50%;
+}
+.skills-content .right .c::before{
     width: 30%;
 }
-.skills-content .right .js::before{
-    width: 30%;
-}
-.skills-content .right .php::before{
+.skills-content .right .python::before{
     width: 10%;
 }
 
