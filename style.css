@@ -361,21 +361,28 @@ section .title::after{
     top: 0;
     background: crimson;
 }
+
+
+
+
 .skills-content .right .html::before{
-    width: 90%;
-}
-.skills-content .right .css::before{
     width: 60%;
 }
+.skills-content .right .css::before{
+    width: 30%;
+}
 .skills-content .right .js::before{
-    width: 80%;
+    width: 30%;
 }
 .skills-content .right .php::before{
-    width: 50%;
+    width: 10%;
 }
-.skills-content .right .mysql::before{
-    width: 70%;
-}
+
+
+
+
+
+
 
 /* teams section styling */
 .teams .title::after{
