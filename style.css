@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://i.ibb.co/FX3N3t6/Wallpaper-Dog-498029.jpg">) no-repeat center;
+    background: url("https://i.ibb.co/FX3N3t6/Wallpaper-Dog-498029.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
